@@ -1,6 +1,6 @@
 # SSL-Feature-Extraction-for-Ball-Detection-on-Soccer-Robots
 
-![SPQR TEAM](media/intro.jpg)
+![SPQR TEAM](media/intro.png)
 This repository contains the implementation of a self-supervised learning approach for improving ball detection in NAO robots, specifically designed for the RoboCup Standard Platform League (SPL). The project addresses the challenge of training neural networks with limited labeled data by leveraging self-supervised learning techniques.
 
   
